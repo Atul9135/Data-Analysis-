@@ -1,2 +1,21 @@
-#This is a independent project using Economic Indicators- Gini Coefficient, GNI per capita, Infant Mortality, and Life Expactancy for Brazil and USA.
-#The dashboardh represents USA and Brazil and there ia a inequality index too between them.
+# Economic Indicators Dashboard: Brazil vs USA
+
+This project analyzes and compares key economic and social indicators 
+for Brazil and the United States, including:
+
+- Gini Coefficient (income inequality)
+- GNI per capita
+- Infant Mortality Rate
+- Life Expectancy
+
+## Tools Used
+- R / Python
+- World Bank Data
+
+## Project Structure
+- data/ : Raw datasets
+- scripts/ : R/Python scripts
+- outputs/ : Charts and results
+
+## Objective
+To compare development and inequality patterns between Brazil and the USA.
